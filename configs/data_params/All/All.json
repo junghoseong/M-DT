@@ -1,0 +1,6 @@
+{
+    "env": "AirCombatEnvironment",
+    "total_tasks": 3,
+    "train_tasks": ["HDP","Human","OnlineRL"],
+    "test_tasks": ["HDP","Human","OnlineRL"]
+}

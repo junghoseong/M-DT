@@ -1,0 +1,6 @@
+{
+    "env": "AirCombatEnvironment",
+    "total_tasks": 1,
+    "train_tasks": ["OnlineRL"],
+    "test_tasks": ["OnlineRL"]
+}
